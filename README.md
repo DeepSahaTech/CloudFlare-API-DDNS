@@ -26,7 +26,8 @@ To generate a new API tokens, go to your [Cloudflare Profile](https://dash.cloud
     ```"zone_id": "Zone ID"```       <== This field should be edited with the Zone ID / Domain ID associated with Cloudflare<br>
 2. Run ```Check_DNS.ps1``` to check if API Connection is Successful.
 3. Run ```New_DNS.ps1``` OR ```Update_DNS.ps1``` depending on your requirement.
-                                              
-## License
+<br><br><br>
+
+## 🔐 License
 
 This Template is licensed under the GNU General Public License, version 3 (GPLv3).
