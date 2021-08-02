@@ -16,7 +16,7 @@ Using this script you can update, add new DNS record for a domain in Cloudflare 
 ### 🔑 Authentication<br>
 
 This script uses new API Token authentication method which is secure.
-To generate a new API tokens, go to your [Cloudflare Profile](https://dash.cloudflare.com/profile/api-tokens) and create a token capable of **Edit DNS**. Then replace the value in
+To generate a new API tokens, go to your [Cloudflare Profile](https://dash.cloudflare.com/profile/api-tokens) and create a token capable of **Edit DNS**. <br><br><br>
 
 ### ⚡ How to Run The Script<br>
 
